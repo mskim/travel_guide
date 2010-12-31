@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  area_id: 1
+  name: MyString
+  category: MyString
+  phone: MyString
+  email: MyString
+  www: MyString
+  stars: 1
+  geo_location: MyString
+  description: MyText
+
+two:
+  area_id: 1
+  name: MyString
+  category: MyString
+  phone: MyString
+  email: MyString
+  www: MyString
+  stars: 1
+  geo_location: MyString
+  description: MyText
